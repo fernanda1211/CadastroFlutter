@@ -1,2 +1,2 @@
 # FlutterCrud
-Simples Cadastro em Flutter
+Simples Cadastro (CRUD) em Flutter
